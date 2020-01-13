@@ -1,0 +1,5 @@
+module.exports = {
+  mongoURI: 'mongodb://saidLa:0677396743@conatctmanger-shard-00-00-jlfrs.mongodb.net:27017,conatctmanger-shard-00-01-jlfrs.mongodb.net:27017,conatctmanger-shard-00-02-jlfrs.mongodb.net:27017/test?ssl=true&replicaSet=conatctManger-shard-0&authSource=admin&retryWrites=true&w=majority',
+  secretOrKey: '12Said@secret'
+};
+
